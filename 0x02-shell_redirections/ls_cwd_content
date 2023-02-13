@@ -1,0 +1,16 @@
+total 64
+drwxrwxr-x 2 roland roland  4096 Feb 13 18:36 .
+drwxrwxr-x 7 roland roland  4096 Feb 13 14:13 ..
+-rwxrw-r-- 1 roland roland    32 Feb 13 16:43 0-hello_world
+-rwxrw-r-- 1 roland roland    28 Feb 13 16:54 1-confused_smiley
+-rwxrw-r-- 1 roland roland    28 Feb 13 16:58 2-hellofile
+-rw------- 1 roland roland 12288 Feb 13 16:55 .2-hellofile.swp
+-rwxrw-r-- 1 roland roland    39 Feb 13 17:00 3-twofiles
+-rwxrw-r-- 1 roland roland    35 Feb 13 17:05 4-lastlines
+-rwxrw-r-- 1 roland roland    35 Feb 13 17:06 5-firstlines
+-rwxrw-r-- 1 roland roland    40 Feb 13 17:14 6-third_line
+-rwxrw-r-- 1 roland roland    98 Feb 13 18:13 7-file
+-rwxrw-r-- 1 roland roland    36 Feb 13 18:35 8-cwd_state
+-rw-rw-r-- 1 roland roland    13 Feb 13 18:04 \*\\'"Best School"\'\*$\?\*\*\*\*\*:\)
+-rw-rw-r-- 1 roland roland     0 Feb 13 18:36 ls_cwd_content
+-rw-rw-r-- 1 roland roland    42 Feb 13 16:38 README.md
